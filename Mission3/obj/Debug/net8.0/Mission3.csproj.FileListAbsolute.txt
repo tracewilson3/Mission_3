@@ -1,0 +1,14 @@
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfoInputs.cache
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfo.cs
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/tracewilson/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3
+/Users/tracewilson/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.deps.json
+/Users/tracewilson/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.runtimeconfig.json
+/Users/tracewilson/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.dll
+/Users/tracewilson/RiderProjects/Mission3/Mission3/bin/Debug/net8.0/Mission3.pdb
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.dll
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/refint/Mission3.dll
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.pdb
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/Mission3.genruntimeconfig.cache
+/Users/tracewilson/RiderProjects/Mission3/Mission3/obj/Debug/net8.0/ref/Mission3.dll
